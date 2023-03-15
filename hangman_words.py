@@ -185,6 +185,7 @@ word_list = [
 'voyeurism', 
 'walkway', 
 'waltz', 
+'Vicotira'
 'wave', 
 'wavy', 
 'waxy', 
